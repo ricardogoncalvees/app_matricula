@@ -1,4 +1,4 @@
-# app_matricula
+# app_matricula PHP 8.1
 App de matrícula escolar para treinar o PHP Shell.
 
 Este aplicativo permite realizar o cadastro de alunos, calcular suas médias, verificar se estão aprovados ou reprovados, e gerar certificados para alunos aprovados.
